@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T15:06:04.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="O3W-Sh8WTZmFikAxM9mS" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T16:41:16.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="r2V0QYVguV2i19Maenzt" version="24.4.0" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="5630" dy="3877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4435" dy="3183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -79,7 +79,7 @@
         </mxCell>
         <mxCell id="q3onOVspXuXpTH-SBQZK-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pub/Sub&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="q5akOOhBp9ArECJoNlle-161" vertex="1" connectable="0">
           <mxGeometry x="-0.4176" relative="1" as="geometry">
-            <mxPoint x="-2581" y="1946" as="offset" />
+            <mxPoint x="-3411" y="1806" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pub/Sub&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5akOOhBp9ArECJoNlle-161">
@@ -89,7 +89,7 @@
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-102" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pub/Sub&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5akOOhBp9ArECJoNlle-161">
           <mxGeometry x="-0.4176" relative="1" as="geometry">
-            <mxPoint x="3859" y="2756" as="offset" />
+            <mxPoint x="3809" y="2926" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-113" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pub/Sub&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5akOOhBp9ArECJoNlle-161">
@@ -104,7 +104,12 @@
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-147" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pub/Sub&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5akOOhBp9ArECJoNlle-161">
           <mxGeometry x="-0.4176" relative="1" as="geometry">
-            <mxPoint x="-2926" y="2886" as="offset" />
+            <mxPoint x="-2958" y="2466" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-158" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pub/Sub&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q5akOOhBp9ArECJoNlle-161">
+          <mxGeometry x="-0.4176" relative="1" as="geometry">
+            <mxPoint x="-2382" y="4046" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q5akOOhBp9ArECJoNlle-21" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Left Camera&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
@@ -130,38 +135,6 @@
           <mxGeometry x="7060" y="990" width="330" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="q5akOOhBp9ArECJoNlle-28" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="q5akOOhBp9ArECJoNlle-27" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q5akOOhBp9ArECJoNlle-29" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Proprioception Sensors&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="1518" width="330" height="132.5" as="geometry" />
-        </mxCell>
-        <mxCell id="q5akOOhBp9ArECJoNlle-30" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="q5akOOhBp9ArECJoNlle-29" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q5akOOhBp9ArECJoNlle-31" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Proprioception Sensors&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3760" y="3510" width="330" height="132.5" as="geometry" />
-        </mxCell>
-        <mxCell id="q5akOOhBp9ArECJoNlle-32" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="q5akOOhBp9ArECJoNlle-31" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q5akOOhBp9ArECJoNlle-33" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Proprioception Sensors&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="420" y="3930" width="330" height="132.5" as="geometry" />
-        </mxCell>
-        <mxCell id="q5akOOhBp9ArECJoNlle-34" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="q5akOOhBp9ArECJoNlle-33" vertex="1">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q5akOOhBp9ArECJoNlle-35" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Proprioception Sensors&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="7070" y="1290" width="330" height="132.5" as="geometry" />
-        </mxCell>
-        <mxCell id="q5akOOhBp9ArECJoNlle-36" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="q5akOOhBp9ArECJoNlle-35" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
@@ -762,7 +735,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-45" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Actuators&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2760" y="2960" width="330" height="132.5" as="geometry" />
+          <mxGeometry x="2760" y="2970" width="330" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-46" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="L2Ahrd78bpyKbLXMKOWa-45">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -770,7 +743,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-103" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Proprioception Sensors&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="6560" y="1790" width="330" height="132.5" as="geometry" />
+          <mxGeometry x="6510" y="1960" width="330" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-104" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="L2Ahrd78bpyKbLXMKOWa-103">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -778,7 +751,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-105" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;Joints&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="7070" y="1790" width="330" height="132.5" as="geometry" />
+          <mxGeometry x="7020" y="1960" width="330" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-106" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="L2Ahrd78bpyKbLXMKOWa-105">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -787,10 +760,10 @@
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="L2Ahrd78bpyKbLXMKOWa-112">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="6725" y="2250" as="targetPoint" />
-            <mxPoint x="6720" y="2180" as="sourcePoint" />
+            <mxPoint x="6675" y="2420" as="targetPoint" />
+            <mxPoint x="6670" y="2350" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="6725" y="2250" />
+              <mxPoint x="6675" y="2420" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -808,7 +781,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-112" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;joints&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="6680" y="2060" width="90" height="80" as="geometry" />
+          <mxGeometry x="6630" y="2230" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-114" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Proprioception Sensors&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="4200" y="2450" width="330" height="132.5" as="geometry" />
@@ -900,12 +873,12 @@
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-135" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L2Ahrd78bpyKbLXMKOWa-105" target="L2Ahrd78bpyKbLXMKOWa-103">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="6670" y="2050" as="sourcePoint" />
-            <mxPoint x="6830" y="2050" as="targetPoint" />
+            <mxPoint x="6620" y="2220" as="sourcePoint" />
+            <mxPoint x="6780" y="2220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-148" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Proprioception Sensors&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-225" y="1920" width="330" height="132.5" as="geometry" />
+          <mxGeometry x="-257.5" y="1500" width="330" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-149" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="L2Ahrd78bpyKbLXMKOWa-148">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -913,7 +886,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-150" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;Joints&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="1920" width="330" height="132.5" as="geometry" />
+          <mxGeometry x="-732.5" y="1500" width="330" height="132.5" as="geometry" />
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-151" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="L2Ahrd78bpyKbLXMKOWa-150">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -922,10 +895,10 @@
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" source="L2Ahrd78bpyKbLXMKOWa-156" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-60" y="2380" as="targetPoint" />
-            <mxPoint x="-65" y="2310" as="sourcePoint" />
+            <mxPoint x="-92.5" y="1960" as="targetPoint" />
+            <mxPoint x="-97.5" y="1890" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-60" y="2380" />
+              <mxPoint x="-92.5" y="1960" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -943,13 +916,57 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-156" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;joints&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-105" y="2190" width="90" height="80" as="geometry" />
+          <mxGeometry x="-137.5" y="1770" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L2Ahrd78bpyKbLXMKOWa-157" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="L2Ahrd78bpyKbLXMKOWa-150" target="L2Ahrd78bpyKbLXMKOWa-148" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-320" y="2050" as="sourcePoint" />
-            <mxPoint x="45" y="2180" as="targetPoint" />
+            <mxPoint x="-352.5" y="1630" as="sourcePoint" />
+            <mxPoint x="12.5" y="1760" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-159" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;Proprioception Sensors&lt;/font&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="3240" width="330" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-160" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="L2Ahrd78bpyKbLXMKOWa-159">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-161" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;«component»&lt;/font&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;Joints&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2940" width="330" height="132.5" as="geometry" />
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-162" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="L2Ahrd78bpyKbLXMKOWa-161">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-163" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="L2Ahrd78bpyKbLXMKOWa-161" target="L2Ahrd78bpyKbLXMKOWa-159" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="390" y="3202.5" as="sourcePoint" />
+            <mxPoint x="550" y="3202.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="485" y="3548.97" as="targetPoint" />
+            <mxPoint x="485" y="3453.97" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-165" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;User&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="L2Ahrd78bpyKbLXMKOWa-164">
+          <mxGeometry x="1" y="3" relative="1" as="geometry">
+            <mxPoint x="-5" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-166" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pub/Sub&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="L2Ahrd78bpyKbLXMKOWa-164">
+          <mxGeometry x="-0.2181" relative="1" as="geometry">
+            <mxPoint x="50" y="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;dashed=1;" edge="1" source="L2Ahrd78bpyKbLXMKOWa-168" target="L2Ahrd78bpyKbLXMKOWa-159" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2Ahrd78bpyKbLXMKOWa-168" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;joints&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="440" y="3374.97" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
