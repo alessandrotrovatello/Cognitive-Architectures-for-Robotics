@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T17:22:46.496Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JqytmYL7AD-wbz_hCfRg" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T17:27:23.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pkrdo5EGBKBXnpldf3Ah" version="24.4.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="4356" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4754" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
         <mxCell id="V1ozlMfIuVR3TN5RS1_V-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="V1ozlMfIuVR3TN5RS1_V-164" target="V1ozlMfIuVR3TN5RS1_V-167" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BWeqHSv0tAE4ggof8cTD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V1ozlMfIuVR3TN5RS1_V-164" target="BWeqHSv0tAE4ggof8cTD-8">
+        <mxCell id="BWeqHSv0tAE4ggof8cTD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="V1ozlMfIuVR3TN5RS1_V-164" target="BWeqHSv0tAE4ggof8cTD-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1170" y="1850" as="targetPoint" />
           </mxGeometry>
@@ -236,20 +236,28 @@
         <mxCell id="V1ozlMfIuVR3TN5RS1_V-175" value="Return to the&lt;div&gt;Robot&#39;s base&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1740" y="1770" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BWeqHSv0tAE4ggof8cTD-2" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="BWeqHSv0tAE4ggof8cTD-2" value="Yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1154" y="1730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BWeqHSv0tAE4ggof8cTD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BWeqHSv0tAE4ggof8cTD-8" target="BWeqHSv0tAE4ggof8cTD-9">
+        <mxCell id="BWeqHSv0tAE4ggof8cTD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BWeqHSv0tAE4ggof8cTD-8" target="BWeqHSv0tAE4ggof8cTD-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BWeqHSv0tAE4ggof8cTD-8" value="Choose one of them" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BWeqHSv0tAE4ggof8cTD-8" value="Choose one of them" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1513" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BWeqHSv0tAE4ggof8cTD-9" value="Is reachable?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="umM-WVGlUsLBDjnBn852-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BWeqHSv0tAE4ggof8cTD-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130.0000000000005" y="1940.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWeqHSv0tAE4ggof8cTD-9" value="Is reachable?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1250" y="1890" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="BWeqHSv0tAE4ggof8cTD-11" value="Is the area&lt;div&gt;safe for humans?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="BWeqHSv0tAE4ggof8cTD-11" value="Is the area&lt;div&gt;safe for humans?&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1000" y="1875" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="umM-WVGlUsLBDjnBn852-2" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1914" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
