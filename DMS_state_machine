@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T09:17:35.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="OfZ-9HsogZKV8bF-t6Rn" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T09:18:48.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="zDym3ErsItLYwvrhljET" version="24.4.4" type="github">
   <diagram name="Pagina-1" id="GUSr9WgkZN07UaqGm5ao">
     <mxGraphModel dx="1050" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -159,6 +159,9 @@
         </mxCell>
         <mxCell id="zyyr1GC-jKlYGRGKMo6n-73" value="Power&lt;div&gt;Off&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="257" y="200" width="130" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="zyyr1GC-jKlYGRGKMo6n-74" value="No errors&lt;div&gt;detected&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="394" width="130" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
