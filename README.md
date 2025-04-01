@@ -2,7 +2,7 @@
 
 This repo contains the final project for the COGAR course at the University of Genoa.
 
-## Context
+## Context Topic 1
 
 In a partially automated industrial context of automobile production, a state-of-the-art humanoid robot, named H-54, is integrated into the assembly line to perform the task of assembling car doors.
 Equipped with an anthropomorphic and articulated structure, H-54 is ouEiFed with a wide range of advanced sensors (two cameras, tactile sensors, proprioception sensors, IMU) and actuators, as well as sophisticated computing and control capabilities (specifically, part of the computation is cloud-based, while part is on-premises on the robot).
